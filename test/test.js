@@ -1,6 +1,6 @@
 
 const expect = require("chai").expect
-const platzom = require("..").default
+const platzom = require("..").defa
 
 describe("#platzom", function (){
   it("si la palabra termina en 'ar', se le quitan esas dos letras"), function () {
